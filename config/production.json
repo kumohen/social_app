@@ -1,0 +1,6 @@
+{
+    "mongoURI":"mongodb://mahen:12345a@ds157956.mlab.com:57956/devconnector",
+    "jwtSecret":"mohenmondal1111",
+    "githubClientId":"5380fe9423e7c02c7733",
+    "githubSecret":"c725fd697c5e4bda95d166c8b475a3f7307cf288"
+}
